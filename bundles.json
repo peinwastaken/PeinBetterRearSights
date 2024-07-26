@@ -15,6 +15,10 @@
 		{
 			"key": "assets/content/items/mods/sights rear/sight_rear_all_kac_folding_sight.bundle",
 			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/items/mods/sights rear/sight_rear_m14_springfield_armory_enlarged_military_aperture_135.bundle",
+			"dependencyKeys": []
 		}
 	]
 }
