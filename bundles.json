@@ -1,0 +1,20 @@
+{
+	"manifest": [
+		{
+			"key": "assets/content/items/mods/sights rear/sight_rear_ak_izhmash_ak12_rear_sight_std.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/items/mods/sights rear/sight_rear_all_hk_mp7_std.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/items/mods/sights rear/sight_rear_all_kac_folding_micro_sight.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/items/mods/sights rear/sight_rear_all_kac_folding_sight.bundle",
+			"dependencyKeys": []
+		}
+	]
+}
