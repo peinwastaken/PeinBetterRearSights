@@ -67,6 +67,46 @@
 		{
 			"key": "assets/content/items/mods/sights rear/sight_rear_mp9_bt_mp9_std.bundle",
 			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/items/mods/sights rear/sight_rear_ak_izhmash_ak74_std.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/items/mods/sights rear/sight_rear_ak_izhmash_ak74m_std.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/items/mods/sights rear/sight_rear_ak_izhmash_ak105_std.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/items/mods/sights rear/sight_rear_ak_izhmash_akm_std.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/items/mods/sights rear/sight_rear_ak_izhmash_akmb.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/items/mods/sights rear/sight_rear_ak_izhmash_akmp.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/items/mods/sights rear/sight_rear_ak_rifle_dynamics_enhanced_v2.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/items/mods/sights rear/sight_rear_mosin_izhmash_mosin_carabine.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/items/mods/sights rear/sight_rear_mosin_izhmash_mosin_std.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/items/mods/barrels/barrel_vpo215_600mm_366tkm.bundle",
+			"dependencyKeys": []
 		}
 	]
 }
