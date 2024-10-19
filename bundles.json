@@ -105,6 +105,38 @@
 			"dependencyKeys": []
 		},
 		{
+			"key": "assets/content/items/mods/sights rear/sight_rear_vss_tochmash_vss_std.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/items/mods/sights rear/sight_rear_vepr_molot_vpo-101_std.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/items/mods/sights rear/sight_rear_val_tochmash_val_std.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/items/mods/sights rear/sight_rear_svt40_toz_svt40_std.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/items/mods/sights rear/sight_rear_sks_toz_sks_std.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/items/mods/sights rear/sight_rear_rpd_zid_rpd_std.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/items/mods/sights rear/sight_rear_pk_zid_pk_std.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/items/mods/sights rear/sight_rear_ak_molot_vpo_209.bundle",
+			"dependencyKeys": []
+		},
+		{
 			"key": "assets/content/items/mods/barrels/barrel_vpo215_600mm_366tkm.bundle",
 			"dependencyKeys": []
 		}
