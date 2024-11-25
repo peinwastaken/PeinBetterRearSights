@@ -139,6 +139,22 @@
 		{
 			"key": "assets/content/items/mods/barrels/barrel_vpo215_600mm_366tkm.bundle",
 			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/items/mods/recievers/reciever_aks74u_izhmash_aks74u_std.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/items/mods/recievers/reciever_aks74u_izhmash_aks74ub_std.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/items/mods/recievers/reciever_aks74u_legal_arsenal_pilgrim_dust_cover.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/weapons/uzi/client_assets.bundle",
+			"dependencyKeys": []
 		}
 	]
 }
